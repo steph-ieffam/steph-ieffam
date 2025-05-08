@@ -16,27 +16,23 @@
 
 ## 🏆 My GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=steph-ieffam&theme=darkhub&no-frame=true&column=7" alt="Trophies" />
+<p align="center" width="100%">
+  <img src="https://github-profile-trophy.vercel.app/?username=steph-ieffam&theme=darkhub&no-frame=true&column=7" alt="Trophies"/>
 </p>
 
 ## 📊 My GitHub Stats
 
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=steph-ieffam&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steph-ieffam&layout=compact&theme=dark" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=steph-ieffam&theme=dark" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <td align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=steph-ieffam&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+  </td>
+  <td align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=steph-ieffam&theme=dark" alt="GitHub Streak" />
+  </td>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steph-ieffam&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
 ## 🧰 Technologies I Use
 
@@ -65,6 +61,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=steph-ieffam&theme=rogue" alt="Activity Stats" />
 </p>
+
 
 ## 👁️ Profile Views
 
