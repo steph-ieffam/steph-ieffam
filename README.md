@@ -22,13 +22,13 @@
 
 ## 📊 My GitHub Stats
 
-<p align="center">
-  <td align="center">
+<p align="center" class="d-inline-flex">
+  <span>
     <img src="https://github-readme-stats.vercel.app/api?username=steph-ieffam&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
-  </td>
-  <td align="center">
+  </span>
+  <span>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=steph-ieffam&theme=dark" alt="GitHub Streak" />
-  </td>
+  </span>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steph-ieffam&layout=compact&theme=dark" alt="Top Languages" />
