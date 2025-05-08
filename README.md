@@ -17,7 +17,7 @@
 ## 🏆 My GitHub Trophies
 
 <p align="center" width="100%">
-  <img src="https://github-profile-trophy.vercel.app/?username=steph-ieffam&theme=darkhub&no-frame=true&column=7" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=steph-ieffam&column=-1&theme=chalk&rank=-?&margin-w=15" style="height: 200px"  />
 </p>
 
 ## 📊 My GitHub Stats
@@ -32,7 +32,7 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steph-ieffam&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+</p>   
 
 ## 🧰 Technologies I Use
 
