@@ -39,13 +39,20 @@
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/tomcat-%23F8DC75.svg?style=for-the-badge&logo=apachetomcat&logoColor=black" alt="Tomcat" />
+  <img src="https://img.shields.io/badge/hibernate-%234D6373.svg?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
+  <img src="https://img.shields.io/badge/junit5-%23525C86.svg?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit5" />
+  <img src="https://img.shields.io/badge/intellij%20idea-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
+
 
 ## Quote of the Day
 
@@ -63,12 +70,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=steph-ieffam&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
-
-## Currently Listening To 🎧
-
-<p align="center">
-  <img src="https://novatorem-nu-seven.vercel.app/api/spotify" alt="Spotify Now Playing" />
 </p>
 
 <!-- 
