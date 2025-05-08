@@ -62,6 +62,9 @@
 <p align="center">
   <img src="https://github.com/steph-ieffam/steph-ieffam/blob/main/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=steph-ieffam&theme=rogue" alt="Activity Stats" />
+</p>
 
 ## 👁️ Profile Views
 
