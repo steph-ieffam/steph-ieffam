@@ -33,9 +33,9 @@
   </tr>
 </table>
 
-<p align="center">
+<!--p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steph-ieffam&layout=compact&theme=dark" alt="Top Languages" />
-</p>   
+</p-->   
 
 ## 🧰 Technologies I Use
 
@@ -62,7 +62,7 @@
   <img src="https://github.com/steph-ieffam/steph-ieffam/blob/main/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=steph-ieffam&theme=rogue" alt="Activity Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=steph-ieffam&theme=rogue&days=365" alt="Activity Stats" />
 </p>
 
 
