@@ -65,19 +65,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=steph-ieffam&theme=rogue&days=365" alt="Activity Stats" />
 </p>
 
-
-## 👁️ Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=steph-ieffam&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
-
-## 💬 Quote of the Day
+</br>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
+  <img src="https://img.shields.io/github/watchers/steph-ieffam/steph-ieffam?label=Profile%20Views&style=for-the-badge" alt="Profile Views" />
 </p>
-
 <p align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with love" />
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by coffee" />
