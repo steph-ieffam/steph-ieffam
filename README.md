@@ -1,7 +1,20 @@
 # Hello, I'm Stefano 👋
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/steph-ieffam/steph-ieffam/main/header.gif" width="800" height="300" alt="Header" />
+  <h2>👨‍💻 About Me</h2>
+  
+  <p>🚀 <strong>Lead Software Engineer</strong> with a passion for developing and integrating cutting-edge solutions that enhance user experience and optimize system performance.</p>
+  
+  <p>🎯 Certified by <strong>Oracle (Java SE 8)</strong> and <strong>Scrum.org (Professional Scrum Developer)</strong>, I bring a results-driven mindset to every project I tackle.</p>
+  
+  <p>💡 I believe in continuous learning and thrive in collaborative environments that foster innovation and build impactful digital experiences.</p>
+  
+  <p>
+    <p>View my certifications on Credly</p> 
+    <a href="https://www.credly.com/users/stefano-maffei" target="_blank">
+      <img src="https://img.shields.io/badge/Credly-Certifications-orange?style=for-the-badge&logo=awards&logoColor=white" alt="Credly" />
+    </a>
+  </p>
 </div>
 
 
