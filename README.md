@@ -27,7 +27,7 @@
   </a>
 </p>
 
-## 🏆 My GitHub Trophies
+<!--## 🏆 My GitHub Trophies
 
 <p align="center" width="100%">
   <img src="https://github-profile-trophy.vercel.app/?username=steph-ieffam&column=-1&theme=chalk&rank=-?&margin-w=15" style="height: 200px"  />
@@ -44,7 +44,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=steph-ieffam&theme=dark" alt="GitHub Streak" />
     </td>
   </tr>
-</table>
+</table>-->
 
 <!--p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steph-ieffam&layout=compact&theme=dark" alt="Top Languages" />
